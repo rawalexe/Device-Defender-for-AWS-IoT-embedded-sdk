@@ -1,5 +1,5 @@
 /*
- * AWS IoT Device Defender Client v1.4.0
+ * AWS IoT Device Defender Client
  * Copyright (C) 2020 Amazon.com, Inc. or its affiliates.  All Rights Reserved.
  *
  * SPDX-License-Identifier: MIT

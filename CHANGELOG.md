@@ -1,5 +1,18 @@
 # Changelog for AWS IoT Device Defender Library
 
+
+## v1.4.1 (March 2026)
+
+### Other
+- [#91](https://github.com/aws/Device-Defender-for-AWS-IoT-embedded-sdk/pull/91) Remove formatting bot workflow
+- [#90](https://github.com/aws/Device-Defender-for-AWS-IoT-embedded-sdk/pull/90) Update coverity links
+- [#89](https://github.com/aws/Device-Defender-for-AWS-IoT-embedded-sdk/pull/89) Fix broken link
+- [#88](https://github.com/aws/Device-Defender-for-AWS-IoT-embedded-sdk/pull/88) Bump actions/download-artifact from 2 to 4.1.7
+- [#87](https://github.com/aws/Device-Defender-for-AWS-IoT-embedded-sdk/pull/87) Adjust proof tooling to support CBMC v6
+- [#86](https://github.com/aws/Device-Defender-for-AWS-IoT-embedded-sdk/pull/86) Update LTS 202406 information
+- [#83](https://github.com/aws/Device-Defender-for-AWS-IoT-embedded-sdk/pull/83) Update manifest and ut cmake
+
+
 ## v1.4.0 (May 2024)
 
 ### Updates
